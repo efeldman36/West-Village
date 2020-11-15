@@ -18,7 +18,7 @@ degree, 5.6% high school graduate, 4.3% doctorate degree, 3.1% less than high sc
 
 # Airbnb Listings in the West Village:
 <dl>
-<iframe src=https://github.com/efeldman36/West-Village/blob/main/HC9_map.html width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src='HC9_map.html' width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
 
 
