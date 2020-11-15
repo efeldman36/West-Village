@@ -17,6 +17,8 @@ degree, 5.6% high school graduate, 4.3% doctorate degree, 3.1% less than high sc
 • Median gross rent: $2,189  
 • 95.2% above poverty level, 4.8% below poverty level
 
+The West Village has very high violent crime and property crime rates compared to the national average. According to Niche there are 1,063.8 assaults, 263 robberies, and 3,627.7 thefts per 100,000 people in the West Village compared to the national average of 282.7 assaults, 135.5 robberies, and 2,042.9 thefts per 100,000 people. In terms of affordability, living in the West Village is very expensive. With a median home value of $1,150,160 and median monthly rent of $2,262, the West Village scored a C- in cost of living. When considering convenience, Niche rated the West Village A for outdoor activity, A+ for nightlife, A+ for commute, and B- for jobs. There are a lot of enjoyable activities and restaurants in the area, and even though there aren’t many jobs you can easily connect to the rest of NYC through public transportation: the 1, A, C, E, B, D, F, M, and L trains are located along the periphery of the neighborhood, and the M8, M11, M12, M14, M20, M21, and M55 bus services ensure that public transportation is available within only a few blocks of any location. 
+
 ### Airbnb Listings in the West Village:
 <dl>
 <iframe src='HC9_map.html' width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
