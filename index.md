@@ -1,5 +1,5 @@
 ## Welcome to the West Village
-This neighborhood encompasses zip codes 10011 and 10014.  
+This neighborhood encompasses zip codes 10011 and 10014 in Manhattan.  
 ![Highlighted Map](https://github.com/efeldman36/West-Village/blob/main/NewMap.png)
 
 ### Neighborhood Demographics:
@@ -16,6 +16,10 @@ degree, 5.6% high school graduate, 4.3% doctorate degree, 3.1% less than high sc
 • Median gross rent: $2,189  
 • 95.2% above poverty level, 4.8% below poverty level
 
+# Airbnb Listings in the West Village:
+<dl>
+<iframe src="HC9_map.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</dl>
 
 
 
