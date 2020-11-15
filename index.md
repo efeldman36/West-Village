@@ -1,8 +1,6 @@
 ## Welcome to the West Village
-This neighborhood encompasses zip codes 10011 and 10014.
-<dl>
-<iframe src="NewMap.png" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</dl>
+This neighborhood encompasses zip codes 10011 and 10014.  
+![Highlighted Map](NewMap.png)
 
 ### Neighborhood Demographics:
 
