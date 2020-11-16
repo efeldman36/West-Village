@@ -1,7 +1,5 @@
 ## Welcome to the West Village
-This neighborhood encompasses zip codes 10011 and 10014 in Manhattan.  
-![Highlighted Map](https://github.com/efeldman36/West-Village/blob/gh-pages/NewMap.png)
-![alt text](https://github.com/efeldman36/West-Village/blob/gh-pages/NewMap.png "Highlighted Map")
+This neighborhood encompasses zip codes 10011 and 10014 in Manhattan  
 ![Highlighted map](https://user-images.githubusercontent.com/28937809/99206233-dfe08180-2788-11eb-909c-ecccbf16a6ba.png)
 
 
@@ -26,44 +24,14 @@ The West Village has very high violent crime and property crime rates compared t
 <iframe src='HC9_map.html' width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
 
+In 2019, there were 768 Airbnb rentals listed in Manhattan’s West Village. Listings were located between latitudes of 40.728610 and 40.740690, and longitudes of -74.010870 and -73.997150. On average, hosts in this neighborhood had 6.5 listings. Listings were available on average about 85.5 days out of the year (availability ranged from 0 to 365 days). It is strange that over one-fourth of the West Village listings on Airbnb were not available at all during the year––it is possible that availability data wasn’t reported by every listing.  
 
+The average minimum nights required to reserve the apartment was about 7.8, but the minimum number of nights ranged from one to 365. The bulk of the minimum nights required ranged from 1 to 31 nights, but there were a few rentals that required 45, 60, 90, 100, 120, and 365 nights to book a stay.  
+![image](https://user-images.githubusercontent.com/28937809/99209335-f25eb900-2790-11eb-811d-275be1895c6e.png)
 
+Three different room types were offered on Airbnb in the West Village: 85.03% were entire homes or apartments (653 listings), 14.58% were private rooms inside an occupied residence (112 listings), and only 0.39% were shared rooms (3 listings).  
+![image](https://user-images.githubusercontent.com/28937809/99209413-1fab6700-2791-11eb-91b5-8ed2262eadc4.png)
 
+With regard to price, the mean price of Airbnb listings in the neighborhood was $267.68 per night. Prices ranged from $50 per night to $4000 per night, but only one-fourth of the prices exceeded $275; there were many outliers in price between $500 and $2000 per night, and three listings were priced at about $2550, $2800, and $4000 per night.  
+![image](https://user-images.githubusercontent.com/28937809/99209463-36ea5480-2791-11eb-9425-0c2fcc524ce0.png)
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/efeldman36/efeldman36/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/efeldman36/efeldman36/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
