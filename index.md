@@ -1,4 +1,6 @@
 ## Welcome to the West Village
+![WV](https://user-images.githubusercontent.com/28937809/101129150-13b40780-35cf-11eb-8677-db508886e722.png)
+
 This neighborhood encompasses zip codes 10011 and 10014 in Manhattan  
 ![Highlighted map](https://user-images.githubusercontent.com/28937809/99206233-dfe08180-2788-11eb-909c-ecccbf16a6ba.png)
 
